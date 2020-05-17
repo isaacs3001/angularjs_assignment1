@@ -1,1 +1,0 @@
-# angularjs_assignment1
